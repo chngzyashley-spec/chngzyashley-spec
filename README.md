@@ -32,14 +32,6 @@ Interactive computer vision experience inspired by Jujutsu Kaisen. Made using Me
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chngzyashley-spec)]
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chngzyashley)](https://github.com/chngzyashley/github-readme-stats)
-
----
-
 ## 🌍 Connect With Me
 
 - Instagram: [https://www.instagram.com/ash_ley.chng/?hl=en]
