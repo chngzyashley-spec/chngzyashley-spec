@@ -34,9 +34,9 @@ Interactive computer vision experience inspired by Jujutsu Kaisen. Made using Me
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chngzyashley-spec&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chngzyashley-spec)]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chngzyashley-spec&layout=compact&theme=tokyonight)
+![Top Languages][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chngzyashley)]
 
 ---
 
