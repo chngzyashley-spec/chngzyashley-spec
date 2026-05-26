@@ -34,5 +34,5 @@ Interactive computer vision experience inspired by Jujutsu Kaisen. Made using Me
 
 ## 🌍 Connect With Me
 
-- Instagram: [https://www.instagram.com/ash_ley.chng/?hl=en]
-- Email: [chngzy.ashley@gmail.com]
+- Instagram: https://www.instagram.com/ash_ley.chng/?hl=en
+- Email: chngzy.ashley@gmail.com
