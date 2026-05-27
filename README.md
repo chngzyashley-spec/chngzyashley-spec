@@ -4,8 +4,6 @@ I'm a student passionate about building software, learning new technologies and 
 
 ---
 
-## 🛠 Tech Stack
-
 ### Languages
 - JavaScript
 - C++
