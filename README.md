@@ -25,8 +25,8 @@ I'm a student passionate about building software, learning new technologies and 
 ### 📱 Slouch Detector
 Monitors user posture in real-time by analyzing body landmarks captured through a webcam.
 
-### 🌐 jjk-amazing-things
-Interactive computer vision experience inspired by Jujutsu Kaisen. Made using MediaPipe hand tracking and Three.js particle effects to trigger animated cursed techniques in real time.
+### 🌐 sign-language-translator
+Real-time SgSl translator powered by MediaPipe and TensorFlow, capable of recognising both static hand poses and dynamic sign actions through computer vision.
 
 ---
 
