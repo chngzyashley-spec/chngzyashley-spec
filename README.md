@@ -15,7 +15,7 @@ I'm a student passionate about building software, learning new technologies and 
 ## 📚 Currently Learning
 
 - iOS Development with SwiftUI
-- Backend Development
+- Computer vision using MediaPipe, OpenCV and NumPy
 - Machine Learning & AI
 
 ---
@@ -27,6 +27,9 @@ Monitors user posture in real-time by analyzing body landmarks captured through 
 
 ### 🌐 sign-language-translator
 Real-time SgSl translator powered by MediaPipe and TensorFlow, capable of recognising both static hand poses and dynamic sign actions through computer vision.
+
+### 🎸 air-guitar
+An interactive virtual guitar powered by Computer Vision, MediaPipe and Python, allowing users to play guitar chords in real time using only hand gestures and motion tracking.
 
 ---
 
